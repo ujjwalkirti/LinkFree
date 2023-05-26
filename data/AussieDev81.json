@@ -1,8 +1,6 @@
 {
   "name": "Nathan Snow",
-  "type": "personal",
   "bio": "Aussie software engineer, Java specialist, and programming mentor",
-
   "tags": [
     "Java",
     "Spring Boot",
@@ -12,9 +10,7 @@
     "REST APIs",
     "DevOps"
   ],
-  "testimonials": [
-    "loftwah"
-  ],
+  "testimonials": ["loftwah"],
   "socials": [
     {
       "url": "https://twitter.com/AussieDev81",
